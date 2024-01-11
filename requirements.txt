@@ -7,3 +7,4 @@
 # xformers==0.0.20
 # triton==2.0.0
 
+jupyterlab
