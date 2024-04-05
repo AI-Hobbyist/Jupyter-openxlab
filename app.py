@@ -37,11 +37,7 @@ st.markdown("合成内容如果**出现了任何版权或法律或其它相关�
 st.markdown("### 导航")
 st.markdown("""|        类型        |                            传送门                            |        备注        |
 | :----------------: | :----------------------------------------------------------: | :----------------: |
-|   API Token   | [https://tts.ai-hobbyist.org/#/apikey](https://tts.ai-hobbyist.org/#/apikey) | 临时地址，后续更新 |
-| Bert-VITS在线推理  | [https://tts.ai-hobbyist.org/#/infer](https://tts.ai-hobbyist.org/#/infer) | 临时地址，后续更新 |
-| GPT-Sovits在线推理 |                              -                               |      敬请期待      |
-|    RVC在线推理     |                              -                               |      敬请期待      |
-|   Sovits在线推理   |                              -                               |      敬请期待      |""")
+|   链接合集   | [https://www.ai-hobbyist.org/thread-475-1-1.html](https://www.ai-hobbyist.org/thread-475-1-1.html) | 临时地址，后续更新 |""")
 st.markdown("**注：** 使用前请认真阅读协议！！！！协议链接会贴在对应推理 WebUI")
 st.markdown("### 联系方式")
 st.markdown("""|           类别           |                             信息                             |
