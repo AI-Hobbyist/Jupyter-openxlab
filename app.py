@@ -37,7 +37,7 @@ st.markdown("合成内容如果**出现了任何版权或法律或其它相关�
 st.markdown("### 导航")
 st.markdown("""|        类型        |                            传送门                            |        备注        |
 | :----------------: | :----------------------------------------------------------: | :----------------: |
-|   链接合集   | [https://www.ai-hobbyist.org/thread-475-1-1.html](https://www.ai-hobbyist.org/thread-475-1-1.html) | 临时地址，后续更新 |""")
+|   链接合集   | [https://www.ai-hobbyist.com/thread-475-1-1.html](https://www.ai-hobbyist.com/thread-475-1-1.html) | 临时地址，后续更新 |""")
 st.markdown("**注：** 使用前请认真阅读协议！！！！协议链接会贴在对应推理 WebUI")
 st.markdown("### 联系方式")
 st.markdown("""|           类别           |                             信息                             |
@@ -47,6 +47,5 @@ st.markdown("""|           类别           |                             信息
 |    AI Hobbyist交流群     | [点击链接加入群聊【AI Hobbyist总群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=yH2t7_Hk_U9v_sngJOnnvUwCDg3jzM6t&authKey=pAP301KgpwMXlgJr49j%2FwhgEMFQkOQL9ZnU7SJtmthjIRMLPp4PXmtMAHfUwYkXU&noverify=0&group_code=704917458) |
 |    AI Hobbyist QQ频道    | [点击链接加入QQ频道【AI Hobbyist】](https://pd.qq.com/s/8c2wkdwyl) |
 |   diffusion-svc交流群    | [点击链接加入群聊【diffusion-svc交流群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=KM1weNmIWGE-sQnFRkwNGDdhH-Mm9ruS&authKey=nYE7C28ibJZzDHhStgU2AoKBLYmkUXFHHuETNQQM4%2Fth6mADmUR9fyHCd4QdNFMF&noverify=0&group_code=608107671) |
-|        模型整合站        |      [https://www.ai-lab.top/](https://www.ai-lab.top/)      |
-|     模型&数据集网盘      | [https://pan.ai-hobbyist.org/](https://pan.ai-hobbyist.org/) |
-| 模型&数据集网盘-备用链接 | [传送门](https://aihobbyist-my.sharepoint.com/:f:/g/personal/erythrocyte_org_ai-lab_top/Es5swZ4XeGtAhqXmF2s7GZ8Bi8EedQ8sdXRyPS-rHbClWQ?e=X5NgeJ) |""")
+|        模型整合站        |      [https://www.ai-hobbyist.com](https://www.ai-hobbyist.com)      |
+|     模型&数据集网盘      | [https://pan.ai-hobbyist.com/](https://pan.ai-hobbyist.comg/) |""")
