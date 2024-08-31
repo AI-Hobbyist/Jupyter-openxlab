@@ -18,7 +18,7 @@ def run_commands(commands):
 def cmds_run():
     commands = [
         f'chmod -R 777 ./*', 
-        f'jupyter lab --ip=0.0.0.0 --port={int(jup_port)} --allow-root --no-browser & python ./ssh.py {ssh_server} {ssh_user} {ssh_pass} {jup_port} & python ./ssh.py {ssh_server} {ssh_user} {ssh_pass} {gsv_port} & ./python ssh.py {ssh_server} {ssh_user} {ssh_pass} {bv2_port} & ./python ssh.py {ssh_server} {ssh_user} {ssh_pass} {bv2cn_port} &',
+        f'jupyter lab --ip=0.0.0.0 --port={int(jup_port)} --allow-root --no-browser & python ./ssh.py {ssh_server} {ssh_user} {ssh_pass} int({jup_port}) & python ./ssh.py {ssh_server} {ssh_user} {ssh_pass} int({gsv_port}) & ./python ssh.py {ssh_server} {ssh_user} {ssh_pass} int({bv2_port}) & ./python ssh.py {ssh_server} {ssh_user} {ssh_pass} int({bv2cn_port}) &',
         f''
     ]
     run_commands(commands)
